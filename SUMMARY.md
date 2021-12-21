@@ -14,3 +14,12 @@
 ## Machine Learning
 
 * [Page 1](machine-learning/page-1.md)
+
+## Math
+
+* [Helpful Books](math/helpful-books.md)
+* [Statistics](math/statistics.md)
+
+## Best Practices
+
+* [Books](best-practices/books.md)
