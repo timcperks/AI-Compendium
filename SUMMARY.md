@@ -28,3 +28,7 @@
 
 * [Useful Links](resources/useful-links.md)
 * [100+ Most Valuable Github Repositories For Machine Learning](resources/100+-most-valuable-github-repositories-for-machine-learning.md)
+
+## Deep Learning
+
+* [Resources](deep-learning/resources.md)
