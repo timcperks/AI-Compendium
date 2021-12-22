@@ -11,15 +11,20 @@
 * [Python](coding-skills/python.md)
 * [SQL](coding-skills/sql.md)
 
-## Machine Learning
-
-* [Page 1](machine-learning/page-1.md)
-
 ## Math
 
 * [Helpful Books](math/helpful-books.md)
 * [Statistics](math/statistics.md)
 
+## Machine Learning
+
+* [The Fundamentals](machine-learning/page-1.md)
+
 ## Best Practices
 
 * [Books](best-practices/books.md)
+
+## Resources
+
+* [Useful Links](resources/useful-links.md)
+* [100+ Most Valuable Github Repositories For Machine Learning](resources/100+-most-valuable-github-repositories-for-machine-learning.md)
