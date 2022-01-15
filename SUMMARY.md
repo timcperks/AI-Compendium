@@ -19,6 +19,8 @@
 ## Machine Learning
 
 * [The Fundamentals](machine-learning/page-1.md)
+* [Reinforcement Learning](machine-learning/reinforcement-learning/README.md)
+  * [Q-Learning Practice](machine-learning/reinforcement-learning/q-learning-practice.md)
 
 ## Best Practices
 
