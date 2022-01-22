@@ -8,7 +8,8 @@
 ## CODING SKILLS
 
 * [Git & Github](coding-skills/git-and-github.md)
-* [Python](coding-skills/python.md)
+* [Python](coding-skills/python/README.md)
+  * [Getting Started](coding-skills/python/getting-started.md)
 * [SQL](coding-skills/sql.md)
 
 ## Math
