@@ -10,7 +10,8 @@
 * [Git & Github](coding-skills/git-and-github.md)
 * [Python](coding-skills/python/README.md)
   * [Getting Started](coding-skills/python/getting-started.md)
-* [SQL](coding-skills/sql.md)
+* [SQL](coding-skills/sql/README.md)
+  * [Courses & Tutorials](coding-skills/sql/courses-and-tutorials.md)
 
 ## Math
 
