@@ -24,6 +24,11 @@
 * [Reinforcement Learning](machine-learning/reinforcement-learning/README.md)
   * [Q-Learning Practice](machine-learning/reinforcement-learning/q-learning-practice.md)
 
+## Deep Learning
+
+* [Fundamentals](deep-learning/fundamentals.md)
+* [Resources](deep-learning/resources.md)
+
 ## Best Practices
 
 * [Books](best-practices/books.md)
@@ -32,7 +37,3 @@
 
 * [Useful Links](resources/useful-links.md)
 * [100+ Most Valuable Github Repositories For Machine Learning](resources/100+-most-valuable-github-repositories-for-machine-learning.md)
-
-## Deep Learning
-
-* [Resources](deep-learning/resources.md)
