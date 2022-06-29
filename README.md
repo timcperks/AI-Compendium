@@ -7,3 +7,7 @@ coverY: 0
 
 # Welcome to the Journey!
 
+```python
+print("hello")
+```
+
